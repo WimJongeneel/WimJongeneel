@@ -13,7 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Jobs
+
+* #### Medior Developer, Hoppinger, Rotterdam (The Netherlands)
+* #### Junior Developer, Hoppinger, Rotterdam (The Netherlands)
+* #### Graduate Intern, Hoppinger, Rotterdam (The Netherlands)
+* #### Trainee Development, Hoppinger, Rotterdam (The Netherlands)
+* #### Intern Development, Hoppinger, Rotterdam (The Netherlands)
+
+
 ## Education
 
-* #### Pre-master Software Engineering, Open Universiteit, The Netherlands
-* #### BSc Creative Media and Game Technologies
+* #### Pre-master Software Engineering, Open Universiteit, Heerlen (The Netherlands)
+* #### BSc Creative Media and Game Technologies, Rotterdam University of Applied Sciences, Rotterdam (The Netherlands)
