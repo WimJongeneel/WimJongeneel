@@ -13,13 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Jobs
-
-* #### Medior Developer, Hoppinger, Rotterdam (The Netherlands)
-* #### Junior Developer, Hoppinger, Rotterdam (The Netherlands)
-* #### Graduate Intern, Hoppinger, Rotterdam (The Netherlands)
-* #### Trainee Development, Hoppinger, Rotterdam (The Netherlands)
-* #### Intern Development, Hoppinger, Rotterdam (The Netherlands)
+## Job
+#### Medior Developer, Hoppinger, Rotterdam (The Netherlands)
+> I develop web applications with TypeScript, React and dotnet core. 
 
 
 ## Education
