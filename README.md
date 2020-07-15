@@ -12,13 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Job
-#### Medior Developer, Hoppinger, Rotterdam (The Netherlands)
-> I develop web applications with TypeScript, React and dotnet core. 
-
-
-## Education
-
-* #### Pre-master Software Engineering, Open Universiteit, Heerlen (The Netherlands)
-* #### BSc Creative Media and Game Technologies, Rotterdam University of Applied Sciences, Rotterdam (The Netherlands)
+#### :office: Developer at Hoppinger in Rotterdam (The Netherlands)
+#### :mortar_board: Pre-master Software Engineering, Open Universiteit, Heerlen (The Netherlands)
+#### :mortar_board: BSc Creative Media and Game Technologies, Rotterdam University of Applied Sciences, Rotterdam (The Netherlands)
