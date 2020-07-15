@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 #### :office: Developer at [Hoppinger](https://www.hoppinger.com) in Rotterdam (The Netherlands)
 #### :closed_book: Blogs on [medium](https://medium.com/@wim_jongeneel)
-#### :mortar_board: [Pre-master Software Engineering](https://www.ou.nl/info-master-software-engineering), [Open Universiteit](https://www.ou.nl), Heerlen (The Netherlands)
-#### :mortar_board: [BSc Creative Media and Game Technologies](https://www.hogeschoolrotterdam.nl/opleidingen/bachelor/creative-media-and-game-technologies/voltijd/), [Rotterdam University of Applied Sciences](https://www.hogeschoolrotterdam.nl), Rotterdam (The Netherlands)
+#### :mortar_board: Pre-master [Software Engineering](https://www.ou.nl/info-master-software-engineering), [Open Universiteit](https://www.ou.nl), Heerlen (The Netherlands)
+#### :mortar_board: BSc [Creative Media and Game Technologies](https://www.hogeschoolrotterdam.nl/opleidingen/bachelor/creative-media-and-game-technologies/voltijd/), [Rotterdam University of Applied Sciences](https://www.hogeschoolrotterdam.nl), Rotterdam (The Netherlands)
