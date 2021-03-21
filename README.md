@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Code-F%23-informational?style=flat&logo=.net&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=success)
